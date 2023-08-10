@@ -19,8 +19,8 @@ class Mybatisplus01QuickstartApplicationTests {
     @Test
     void testSave(){
         User user = new User();
-        user.setName("黑马程序员");
-        user.setPassword("itheima");
+        user.setName("陈某人");
+        user.setPassword("xiaochen");
         user.setAge(12);
         user.setTel("4006184000");
         userDao.insert(user);
