@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import java.util.List;
-
+// 测试pull
 @SpringBootTest
 class Mybatisplus01QuickstartApplicationTests {
 
